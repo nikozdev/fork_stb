@@ -2,6 +2,7 @@
 #include <string_view>
 #include <functional>
 #include <unordered_map>
+#include <stb_image.h>
 //forward
 typedef struct GLFWwindow GLFWwindow;
 //typedef
